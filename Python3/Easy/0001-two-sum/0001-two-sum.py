@@ -1,18 +1,15 @@
+from collections import defaultdict
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        res = []
-        i = 0
-        j = i+1
+        # key: complement value: index
+        hashmap = defaultdict(int)
+        for i in range(0, len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap:
+                return [i, hashmap[complement]]
+            hashmap[nums[i]] = i
+        
+        # found nothing
+        return []
 
-        while i < len(nums): 
-            k = target - nums[i]
-            print(k)
-            while j < len(nums): 
-                if nums[j] == k: 
-                    return [i,j]
-                else: 
-                    j += 1
-            i += 1
-            j = i+1
-            
         
