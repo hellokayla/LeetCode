@@ -7,6 +7,7 @@ class Solution:
             end_time_curr = intervals[i-1][1] # end time of curr interval
             start_time_next = intervals[i][0] # start time of next interval
 
+            # in the event of a tie, you can't attend both meetings
             if end_time_curr > start_time_next:
                 return False
         return True
