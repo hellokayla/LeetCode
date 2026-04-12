@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0238-product-of-array-except-self/) | Medium |
+| [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
