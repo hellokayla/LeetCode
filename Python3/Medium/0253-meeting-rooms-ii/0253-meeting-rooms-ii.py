@@ -3,14 +3,10 @@ class Solution:
         if len(intervals) == 0: return 0
         if len(intervals) == 1: return 1
         # step 1 - sort the start and end times
-        start_times, end_times = [], []
-        for i in range(len(intervals)):
-            start_time = intervals[i][0]
-            end_time = intervals[i][1]
-            start_times.append(start_time)
-            end_times.append(end_time)
-        start_times.sort()
-        end_times.sort()
+        start_times = [interval[0] for interval in intervals]
+        end_times = [interval[1] for interval in intervals]
+        start_times = sorted(start_times)
+        end_times = sorted(end_times)
 
         # step 2 - use two pointer method for checking room availability
         max_rooms, rooms = 0, 0
