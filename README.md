@@ -44,4 +44,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
