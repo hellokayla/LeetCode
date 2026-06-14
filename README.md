@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0221-maximal-square](https://github.com/hellokayla/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0238-product-of-array-except-self/) | Medium |
 | [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
@@ -53,6 +54,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0221-maximal-square](https://github.com/hellokayla/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -79,4 +81,8 @@
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/hellokayla/LeetCode/tree/main/1114-print-in-order/) | Easy |
 | [1115-print-foobar-alternately](https://github.com/hellokayla/LeetCode/tree/main/1115-print-foobar-alternately/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0221-maximal-square](https://github.com/hellokayla/LeetCode/tree/main/0221-maximal-square/) | Medium |
 <!---LeetCode Topics End-->
