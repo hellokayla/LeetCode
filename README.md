@@ -17,10 +17,12 @@
 | [0001-two-sum](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/hellokayla/LeetCode/tree/main/0221-maximal-square/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
