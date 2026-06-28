@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/hellokayla/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
@@ -36,6 +37,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hellokayla/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hellokayla/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 ## Design
 | Problem Name | Difficulty |
