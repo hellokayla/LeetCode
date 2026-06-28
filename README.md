@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/hellokayla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -124,4 +125,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hellokayla/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hellokayla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
