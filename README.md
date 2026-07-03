@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hellokayla/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/hellokayla/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -121,6 +122,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/hellokayla/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -157,4 +159,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/hellokayla/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
