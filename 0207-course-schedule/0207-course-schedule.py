@@ -1,39 +1,34 @@
 # Approach: Use Kahn's algorithm, iterative approach
-# 
 from collections import defaultdict
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         if len(prerequisites) == 0: return True
         
-        # key-value store of in-degrees
-        # key: node value: 0
-        prereqs = defaultdict(int)
+        # store incoming degrees
+        # forces every course to exist
+        in_degree = [0] * numCourses
 
         # build out the adjacency list
         graph = defaultdict(list)
 
-        for course, req_course in prerequisites:
+        for course, prereq in prerequisites:
             # map of adjacency list
             # outgoing arrows
-            graph[req_course].append(course)
+            graph[prereq].append(course)
 
             # populate the in-degrees
             # 0 points to 1
             # in-degree: how many arrows pointing to the node
-            prereqs[course] +=1
+            # everything else gets 0
+            in_degree[course] +=1
 
-            # make sure 0 gets initialized
-            if req_course not in prereqs:
-                prereqs[req_course] = 0
 
         q = []
 
+        for course in range(numCourses):
+            if in_degree[course] == 0:
+                q.append(course)
 
-        # khan's algorithm (DFS)
-        # find starting nodes
-        for node, degree in prereqs.items():
-            if degree == 0:
-                q.append(node)
         count = 0
 
         while q:
@@ -43,14 +38,14 @@ class Solution:
             for neighbor in graph[curr_node]:
 
                 # minus 1 
-                prereqs[neighbor] -= 1
+                in_degree[neighbor] -= 1
 
                 # if their value becomes 0, add to queue
-                if prereqs[neighbor] == 0:
+                if in_degree[neighbor] == 0:
                     q.append(neighbor)
         
         # check the cycle
-        return count == len(graph.keys())
+        return count == numCourses
 
         
 
