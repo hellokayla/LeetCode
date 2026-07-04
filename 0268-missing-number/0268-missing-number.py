@@ -10,19 +10,48 @@ class Solution:
     Approach #2:
     Allocate a map = [0] * len(nums)+1
     Go through every value in nums, mapping it to the 1D map.
+
+    Approach #3:
+    Create a set, removing duplicates from the nums
+    Loop through to find the missing number
+
+    Approach #4: Bitwise XOR
+    XOR both lists
     '''
     def missingNumber(self, nums: List[int]) -> int:
-        if len(nums) == 0: return 0
+        '''
+        missing = len(nums) = 3
 
-        nums_map = [0] * (len(nums)+1)
-        # [3,0,1]
-        # [0,0,0,0]
-        for n in nums:
-            nums_map[n] += 1
+        i=0, num=3:
+        missing ^= 0  → missing = 3 ^ 0 = 3
+        missing ^= 3  → missing = 3 ^ 3 = 0  ← 3 cancels with itself!
 
-        for i in range(0, len(nums_map)):
-            if nums_map[i] == 0:
-                return i
-        return 0
-        
+        i=1, num=0:
+        missing ^= 1  → missing = 0 ^ 1 = 1
+        missing ^= 0  → missing = 1 ^ 0 = 1
+
+        i=2, num=1:
+        missing ^= 2  → missing = 1 ^ 2 = 3
+        missing ^= 1  → missing = 3 ^ 1 = 2
+
+        return 2 ✓
+
+
+        result = 3 XOR 0 XOR 1 XOR 0 XOR 1 XOR 2 XOR 3
+
+        Group matching pairs:
+        result = (0 XOR 0) XOR (1 XOR 1) XOR (3 XOR 3) XOR 2
+
+        Apply a XOR a = 0:
+        result = 0 XOR 0 XOR 0 XOR 2
+
+        result = 2 ✓
+        '''
+        missing = len(nums)
+
+        for i, num in enumerate(nums):
+            missing ^= i
+            missing ^= num
+        return missing
+
         
