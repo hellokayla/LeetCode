@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hellokayla/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hellokayla/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
