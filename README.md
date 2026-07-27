@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0056-merge-intervals](https://github.com/hellokayla/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0221-maximal-square](https://github.com/hellokayla/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0238-product-of-array-except-self/) | Medium |
 | [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
@@ -51,6 +52,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/hellokayla/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
