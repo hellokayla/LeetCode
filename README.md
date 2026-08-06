@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/hellokayla/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hellokayla/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/hellokayla/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 ## Hash Table
@@ -113,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/hellokayla/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
