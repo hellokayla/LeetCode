@@ -13,6 +13,7 @@
 | [0252-meeting-rooms](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/hellokayla/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hellokayla/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/hellokayla/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/hellokayla/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Hash Function
