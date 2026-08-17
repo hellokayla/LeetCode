@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/hellokayla/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/hellokayla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0709-to-lower-case](https://github.com/hellokayla/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hellokayla/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/hellokayla/LeetCode/tree/main/Python3/Medium/0253-meeting-rooms-ii/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
