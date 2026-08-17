@@ -69,6 +69,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/hellokayla/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/hellokayla/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
@@ -187,4 +188,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/hellokayla/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/hellokayla/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/hellokayla/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
