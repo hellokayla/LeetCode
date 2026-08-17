@@ -22,6 +22,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hellokayla/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hellokayla/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/hellokayla/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hellokayla/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/hellokayla/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
