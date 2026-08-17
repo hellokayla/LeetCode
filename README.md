@@ -21,6 +21,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hellokayla/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hellokayla/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/hellokayla/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hellokayla/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hellokayla/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2942-find-words-containing-character](https://github.com/hellokayla/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
