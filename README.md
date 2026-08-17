@@ -29,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hellokayla/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hellokayla/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | [0020-valid-parentheses](https://github.com/hellokayla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0709-to-lower-case](https://github.com/hellokayla/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/hellokayla/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hellokayla/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
