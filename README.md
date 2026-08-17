@@ -20,6 +20,7 @@
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hellokayla/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/hellokayla/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
