@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/hellokayla/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0706-design-hashmap/) | Easy |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/hellokayla/LeetCode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hellokayla/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hellokayla/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hellokayla/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -84,6 +85,7 @@
 | [0268-missing-number](https://github.com/hellokayla/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/hellokayla/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/hellokayla/LeetCode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hellokayla/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hellokayla/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/hellokayla/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 ## Dynamic Programming
